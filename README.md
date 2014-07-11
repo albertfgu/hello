@@ -1,0 +1,6 @@
+hello
+=====
+
+my very first repository 
+
+this is a nifty thing
